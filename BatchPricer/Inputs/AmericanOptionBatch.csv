@@ -1,0 +1,3 @@
+Batch Number (id),Option Type (type),Strike Price (K),Underlying Price (S),Risk Free Rate (r),Volatility (sigma),Cost of Carry (b)
+1,Call,100,110,0.1,0.1,0.02
+2,Put,100,110,0.1,0.1,0.02
