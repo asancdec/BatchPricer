@@ -1,6 +1,6 @@
 // C++: Batch Option Pricer with Analytical and Numerical Sensitivities
 // EuropeanOption.hpp
-// ¡lvaro S·nchez de Carlos
+// √Ålvaro S√°nchez de Carlos
 // Description: this file contains the header code for the EuropeanOption class
 
 // Header guard to avoid multiple inclusions
@@ -142,5 +142,5 @@ public:
 
 };
 
-// EUROPEANOPTION_CPP
+// EUROPEANOPTION_HPP
 #endif
